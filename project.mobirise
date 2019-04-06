@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-05_1837",
-    "currentPage": "page1.html",
+    "currentPage": "thank-you.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -1476,7 +1476,7 @@
         }
       ]
     },
-    "page1.html": {
+    "thank-you.html": {
       "settings": {
         "title": "Thank You",
         "order": 1
