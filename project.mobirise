@@ -26,7 +26,10 @@
     "versionFirst": "4.9.7",
     "siteFonts": [],
     "uniqCompNum": 30,
-    "versionPublish": "4.9.7"
+    "versionPublish": "4.9.7",
+    "favicon": "@PROJECT_PATH@/assets/images/netbhet-logo-128x128.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
