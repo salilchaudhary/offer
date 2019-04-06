@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-05_1837",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 30,
+    "uniqCompNum": 33,
     "versionPublish": "4.9.7",
     "favicon": "@PROJECT_PATH@/assets/images/netbhet-logo-128x128.png",
     "noImageResize": "",
@@ -1473,6 +1473,117 @@
           ],
           "_name": "footer7",
           "_anchor": "footer7-n"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Thank You",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text1": "<p><b><span style=\"font-size: 1rem;\">जर आपण ऑनलाईन ऑफर घेतली असेल तर पुढील तीन दिवसात learn.netbhet.com या वेबसाईटवर कोर्स पाहण्यासाठी आपल्याला लॉग-इन आणि पासवर्ड पाठविण्यात येईल.</span><br></b></p><p>\n</p><p><b>जर आपण ऑफलाईन ऑफर घेतली असेल तर पुढील ३ दिवसात पेन ड्राईव्ह कुरीअर ने पाठविण्यात येईल. \n</b></p><p><b>​</b></p>",
+          "text2": "<p><b>अधिक माहितीकरीता 908 220 5254 या क्रमांकावर whatsapp / call करा .\n</b></p><p><b>Happy Learning !\n</b></p><p><b>Regards,\n</b></p><p><b>​Team Netbhet !</b></p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-w"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7f7f7",
+            "overlay": true,
+            "overlayColor": "#f7f7f7",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/n1-263x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "product",
+          "text11": "Popular",
+          "text12": "Trending",
+          "text13": "Catalog",
+          "text14": "Awesome",
+          "text15": "Best",
+          "title2": "company",
+          "text21": "Press",
+          "text22": "Features",
+          "text23": "Mission",
+          "text24": "Strategy",
+          "text25": "Works",
+          "title3": "Learn more",
+          "text31": "Support",
+          "text32": "Developers",
+          "text33": "Service",
+          "text34": "Starter pack",
+          "text35": "FAQ",
+          "titled1": "<a href=\"tel:+919082205254\">Contact - 908 220 5254</a><br>NETBHET ELEARNING SOLUTIONS<br>WORKLOFT, DER DEUTCHE PARKZ, NAHUR WEST<br>MUMBAI 4007078",
+          "titled2": "<a href=\"https://www.netbhet.com\" target=\"_blank\">Home</a>",
+          "titled3": "<a href=\"https://www.facebook.com/marathi.netbhet\" target=\"_blank\">Facebook</a>",
+          "followtext": "follow us",
+          "text": "Copyright (c) 2019 Netbhet Elearning Solutions",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer7",
+          "_anchor": "footer7-u"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#169581",
+            "overlayOpacity": 0.8
+          },
+          "title": "\"नेटभेट ऑफर \" चा लाभ घेतल्याबद्दल अनेक धन्यवाद !\r",
+          "caption": "<p>Article header with background image and parallax effect.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-v"
         }
       ]
     }
