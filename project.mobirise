@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-05_1837",
-    "currentPage": "thank-you.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -113,6 +113,9 @@
               "color": "#fff",
               "text-transform": "uppercase",
               "margin-bottom": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "80px"
             }
           },
           "_params": {
@@ -134,7 +137,7 @@
             "overlayColor": "#e74c3c",
             "overlayOpacity": "0.7"
           },
-          "title": "१६ कोर्सेस - ९२% सवलत<br>फक्त रुपये १५९९ मध्ये !",
+          "title": "रु. २०००० किमतीचे <br>१६ऑनलाईन कोर्सेस&nbsp;<br> ९२% सवलत<br>फक्त रुपये १५९९ मध्ये !",
           "text": "नेटभेटचे आतापर्यंत प्रसिद्ध झालेले १६ कोर्सेस आम्ही उपलब्ध करून देत आहोत ९२% सवलती मध्ये.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\">see live demo</a>",
           "alias": "colorm/components",
@@ -148,6 +151,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -156,7 +162,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "गुढीपाडवा ऑफर मध्ये खालील कोर्सेस मिळविता येतील&nbsp;",
+          "title": "गुढीपाडवा ऑफर मध्ये खालील ऑनलाईन कोर्सेस मिळविता येतील&nbsp;",
           "meta": "By <b>John Smith</b> posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -537,7 +543,7 @@
             "showTitles": true,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "columns": 4,
             "bgImageRadio": true,
