@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 33,
+    "uniqCompNum": 16,
     "versionPublish": "4.9.7",
     "favicon": "@PROJECT_PATH@/assets/images/netbhet-logo-128x128.png",
     "noImageResize": "",
@@ -956,7 +956,7 @@
           "_params": {
             "showTitle": true,
             "showText": false,
-            "countdown": "2019/04/10",
+            "countdown": "2019/04/11",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
